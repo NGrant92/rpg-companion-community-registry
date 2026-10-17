@@ -3460,5 +3460,25 @@
     "github_repo": "plasticparadigm/TalDorei-Campaign-Setting-Reborn",
     "repo_url": "https://plasticparadigm.github.io/TalDorei-Campaign-Setting-Reborn/",
     "has_system": false
+  },
+  {
+    "id": "sigil-and-outlands-5e2024",
+    "name": "Sigil and the Outlands - 5e2024",
+    "description": "Planar feat chain (Scion of the Outer Planes and its five follow-ups) ported faithfully from Sigil and the Outlands, plus the Gate Warden / Planar Philosopher backgrounds adapted to the 5e2024 background format (ability score increase and equipment package choices are original conversions, since this book was never officially updated for 2024 rules).",
+    "tags": [
+      "fantasy",
+      "5e2024",
+      "planescape",
+      "feats",
+      "backgrounds"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "NGrant92/sigil-and-outlands-5e2024",
+    "repo_url": "https://ngrant92.github.io/sigil-and-outlands-5e2024/",
+    "has_system": false
   }
 ]
